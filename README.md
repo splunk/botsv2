@@ -1,3 +1,6 @@
+# Boss of the SOC (BOTS) Dataset Version 1
+A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 "Dataset." If you would like access to the [CTF Scoreboard](https://github.com/splunk/SA-ctf_scoreboard) please visit [the CTF Scoreboard github page.](https://github.com/splunk/SA-ctf_scoreboard)
+
 ## Authors
 Written in 2016 by Ryan Kovar, David Herrald, and James Brodsky
 
