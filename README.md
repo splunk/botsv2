@@ -1,7 +1,7 @@
 # Boss of the SOC (BOTS) Dataset Version 2
 A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 "Dataset." If you would like access to the [CTF Scoreboard](https://github.com/splunk/SA-ctf_scoreboard) please visit [the CTF Scoreboard github page.](https://github.com/splunk/SA-ctf_scoreboard)
 
-## Data Sourcetype included
+## Data Sourcetypes included
 * sourcetype
 * access_combined
 * activedirectory
