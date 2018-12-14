@@ -2,7 +2,6 @@
 A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 "Dataset." If you would like access to the [CTF Scoreboard](https://github.com/splunk/SA-ctf_scoreboard) please visit [the CTF Scoreboard github page.](https://github.com/splunk/SA-ctf_scoreboard)
 
 ## Data Sourcetypes included
-* sourcetype
 * access_combined
 * activedirectory
 * apache:error
@@ -107,6 +106,44 @@ A sample security dataset and CTF platform for information security professional
 * winhostmon
 * winregistry
 * xmlwineventlog:microsoft-windows-sysmon/operational
+
+## Splunk Apps and Add-ons
+The dataset requires the following software which is distributed and licensed separately
+and should be installed before using the dataset. The versions listed are
+those that were used to create the dataset. Different versions of the software
+may or may not work properly. If you are new to Splunk, follow [these instructions](http://docs.splunk.com/Documentation/Splunk/latest/Installation/Whatsinthismanual) to install the free Splunk Enterprise trial and [these instructions](https://docs.splunk.com/Documentation/AddOns/released/Overview/Singleserverinstall) to install apps and add-ons. 
+
+| App / Add-on | Version | Download |
+| ----------- | ------- | -------- |
+| Splunk Enterprise                               | 7.2.0  | http://www.splunk.com
+| SA-Investigator                                 | 1.3.1  | https://splunkbase.splunk.com/app/3749/
+| Base64	                                        | 1.1	   | https://splunkbase.splunk.com/app/1922/
+| URL Toolbox	                                    | 1.6	   | https://splunkbase.splunk.com/app/2734/
+| Splunk Security Essentials                      | 2.3.0  | https://splunkbase.splunk.com/app/3435/
+| JellyFisher	                                    | 0.1.0  | https://splunkbase.splunk.com/app/3626/
+| Splunk Common Information Model	                | 4.12.0 | https://splunkbase.splunk.com/app/1621/
+| Splunk Add-on for Apache                        | 1.0.0	 | https://splunkbase.splunk.com/app/3186/
+| Splunk Add-on for Microsoft Cloud Services      | 2.0.3  | https://splunkbase.splunk.com/app/3110/
+| Palo Alto Networks Add-on for Splunk            | 3.8.2	 | https://splunkbase.splunk.com/app/2757/
+| Splunk Add-on for Symantec Endpoint Protection  | 2.3.0	https://splunkbase.splunk.com/app/2772/
+| TA-Suricata	2.3.3	https://splunkbase.splunk.com/app/2760/
+| Microsoft Sysmon Add-on	6.0.4	https://splunkbase.splunk.com/app/1914/
+| Collectd App for Splunk Enterprise	1.1	https://splunkbase.splunk.com/app/2875/
+| OSquery	1	https://splunkbase.splunk.com/app/3278/
+| SSL Certificate Checker	3.2	https://splunkbase.splunk.com/app/3172/
+| Website Monitoring	2.5	https://splunkbase.splunk.com/app/1493/
+| SA-bots	1	
+| Splunk_TA_BOTS	2.5	
+| Splunk Add-on for MySQL	1.1.0	
+| TA-bro_json	None	
+| EOL Logs	0.1	
+| frothly_custom		
+| Splunk App for Azure	0.1	
+| Splunk Add-on for Microsoft IIS	1.0.0	https://splunkbase.splunk.com/app/3185/
+| Splunk Add-on for Unix and Linux	6.0.0	https://splunkbase.splunk.com/app/833/
+| Splunk Stream Add-on	7.1.1	https://splunkbase.splunk.com/app/1809/
+| Splunk Add-on for Microsoft Windows	5.0.1	https://splunkbase.splunk.com/app/742/
+
 
 ## Warning
 **Please be advised that this datasets may contain profanity, slang, vulgar expressions, and/or generally offensive terminology. Please use with discretion.** 
