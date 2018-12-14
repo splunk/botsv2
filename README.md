@@ -107,7 +107,7 @@ A sample security dataset and CTF platform for information security professional
 * winregistry
 * xmlwineventlog:microsoft-windows-sysmon/operational
 
-## Splunk Apps and Add-ons
+## Required Software
 The dataset requires the following software which is distributed and licensed separately
 and should be installed before using the dataset. The versions listed are
 those that were used to create the dataset. Different versions of the software
