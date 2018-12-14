@@ -125,24 +125,17 @@ may or may not work properly. If you are new to Splunk, follow [these instructio
 | Splunk Add-on for Apache                        | 1.0.0	 | https://splunkbase.splunk.com/app/3186/
 | Splunk Add-on for Microsoft Cloud Services      | 2.0.3  | https://splunkbase.splunk.com/app/3110/
 | Palo Alto Networks Add-on for Splunk            | 3.8.2	 | https://splunkbase.splunk.com/app/2757/
-| Splunk Add-on for Symantec Endpoint Protection  | 2.3.0	https://splunkbase.splunk.com/app/2772/
-| TA-Suricata	2.3.3	https://splunkbase.splunk.com/app/2760/
-| Microsoft Sysmon Add-on	6.0.4	https://splunkbase.splunk.com/app/1914/
-| Collectd App for Splunk Enterprise	1.1	https://splunkbase.splunk.com/app/2875/
-| OSquery	1	https://splunkbase.splunk.com/app/3278/
-| SSL Certificate Checker	3.2	https://splunkbase.splunk.com/app/3172/
-| Website Monitoring	2.5	https://splunkbase.splunk.com/app/1493/
-| SA-bots	1	
-| Splunk_TA_BOTS	2.5	
-| Splunk Add-on for MySQL	1.1.0	
-| TA-bro_json	None	
-| EOL Logs	0.1	
-| frothly_custom		
-| Splunk App for Azure	0.1	
-| Splunk Add-on for Microsoft IIS	1.0.0	https://splunkbase.splunk.com/app/3185/
-| Splunk Add-on for Unix and Linux	6.0.0	https://splunkbase.splunk.com/app/833/
-| Splunk Stream Add-on	7.1.1	https://splunkbase.splunk.com/app/1809/
-| Splunk Add-on for Microsoft Windows	5.0.1	https://splunkbase.splunk.com/app/742/
+| Splunk Add-on for Symantec Endpoint Protection  | 2.3.0	 | https://splunkbase.splunk.com/app/2772/
+| TA-Suricata	                                    | 2.3.3	 | https://splunkbase.splunk.com/app/2760/
+| Microsoft Sysmon Add-on	                        | 6.0.4	 | https://splunkbase.splunk.com/app/1914/
+| Collectd App for Splunk Enterprise              | 1.1    | https://splunkbase.splunk.com/app/2875/
+| OSquery                                         |	1      | https://splunkbase.splunk.com/app/3278/
+| SSL Certificate Checker                         | 3.2	   | https://splunkbase.splunk.com/app/3172/
+| Website Monitoring	                            | 2.5    | https://splunkbase.splunk.com/app/1493/	
+| Splunk Add-on for Microsoft IIS                 | 1.0.0	 | https://splunkbase.splunk.com/app/3185/
+| Splunk Add-on for Unix and Linux                | 6.0.0  | https://splunkbase.splunk.com/app/833/
+| Splunk Stream Add-on                            | 7.1.1  | https://splunkbase.splunk.com/app/1809/
+| Splunk Add-on for Microsoft Windows             | 5.0.1  | https://splunkbase.splunk.com/app/742/
 
 
 ## Warning
