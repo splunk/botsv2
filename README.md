@@ -115,7 +115,7 @@ may or may not work properly. If you are new to Splunk, follow [these instructio
 
 | App / Add-on | Version | Download |
 | ----------- | ------- | -------- |
-| Splunk Enterprise                               | 7.2.0  | http://www.splunk.com
+| Splunk Enterprise                               | 7.2.1  | http://www.splunk.com
 | SA-Investigator                                 | 1.3.1  | https://splunkbase.splunk.com/app/3749/
 | Base64	                                        | 1.1	   | https://splunkbase.splunk.com/app/1922/
 | URL Toolbox	                                    | 1.6	   | https://splunkbase.splunk.com/app/2734/
