@@ -14,7 +14,9 @@ A sample security dataset and CTF platform for information security professional
 4. Restart Splunk
 5. The BOTS v2 data will be available by searching: 
 
-~~~~index=botsv2 earliest=0~~~~
+```
+index=botsv2 earliest=0
+```
 
 ## Data Sourcetypes included
 * access_combined
