@@ -17,6 +17,7 @@ A sample security dataset and CTF platform for information security professional
 ```
 index=botsv2 earliest=0
 ```
+6. Note that because the data is distributed in a pre-indexed format, there are no volume-based licensing limits to be concerned with.
 
 ## Data Sourcetypes included
 * access_combined
