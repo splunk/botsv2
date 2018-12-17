@@ -6,7 +6,7 @@ A sample security dataset and CTF platform for information security professional
 | Dataset          | Size | Format | MD5 | Description |
 | ---------------- | ---- | ------ | --- | ----------- |
 | [BOTS V2 Data Set](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set.tgz) | 16.4GB | Pre-indexed Splunk | 8fc312504c0e2e76342fcf82ea962f56 | Full BOTSv2 data set. |
-| BOTS V2 Data Set](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set_attack_only.tgz) | xGB | Pre-indexed Splunk | xxxx|
+| [BOTS V2 Data Set](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set_attack_only.tgz) | xGB | Pre-indexed Splunk | xxxx|
 
 Note: Choose one version of the dataset or ther other. You cannot install them both simultaneously. BOTS V2 Data Set is a superset of the BOTS V2 AttackOnly Dataset.
 
