@@ -12,7 +12,9 @@ A sample security dataset and CTF platform for information security professional
 2. Install Splunk Enterprise and the apps/add-ons listed in the *Requuited Software* section below.
 3. Unzip/untar the downloaded file into $SPLUNK_HOME/etc/apps
 4. Restart Splunk
-5. The BOTS v2 data will be available by searching: index=botsv2 earliest=0
+5. The BOTS v2 data will be available by searching: 
+
+~~~~index=botsv2 earliest=0~~~~
 
 ## Data Sourcetypes included
 * access_combined
