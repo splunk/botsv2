@@ -1,11 +1,18 @@
 # Boss of the SOC (BOTS) Dataset Version 2
-A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 *dataset*. If you would like access to the scoreboard software, please visit [the CTF Scoreboard Github repository.](https://github.com/splunk/SA-ctf_scoreboard). If you are looking for the BOTS version 1 dataset, it can be found [here](https://github.com/splunk/botsv1).
+A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 *dataset*. If you would like access to the scoreboard software, please visit [the CTF Scoreboard Github repository](https://github.com/splunk/SA-ctf_scoreboard). If you are looking for the BOTS version 1 dataset, it can be found [here](https://github.com/splunk/botsv1).
 
 ## Download
 
 | Dataset          | Size | Format | MD5 | Description |
 | ---------------- | ---- | ------ | --- | ----------- |
 | [BOTS V2 Data Set](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set.tgz) | 16.4GB | Pre-indexed Splunk | 8fc312504c0e2e76342fcf82ea962f56 | Full BOTSv2 data set. |
+
+## Installation
+1. Download the dataset file indicated above and check the MD5 hash to ensure integrity.
+2. Install Splunk Enterprise and the apps/add-ons listed in the *Requuited Software* section below.
+3. Unzip/untar the downloaded file into $SPLUNK_HOME/etc/apps
+4. Restart Splunk
+5. The BOTS v2 data will be available by searching: index=botsv2 earliest=0
 
 ## Data Sourcetypes included
 * access_combined
