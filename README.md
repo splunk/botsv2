@@ -1,6 +1,11 @@
 # Boss of the SOC (BOTS) Dataset Version 2
 A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts. This page hosts information regarding the version 2 *Dataset*. If you would like access to the [CTF Scoreboard](https://github.com/splunk/SA-ctf_scoreboard) please visit [the CTF Scoreboard github page.](https://github.com/splunk/SA-ctf_scoreboard)
 
+## Download Location
+| Dataset          | Download Location | Size | Format | MD5 |
+| BOTS V2 Data Set | https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set.tgz | 16.4GB | Pre-indexed Splunk | 8fc312504c0e2e76342fcf82ea962f56 |
+| BOTS V2 Attack Only Data Set
+
 ## Data Sourcetypes included
 * access_combined
 * activedirectory
