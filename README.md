@@ -5,10 +5,10 @@ A sample security dataset and CTF platform for information security professional
 
 | Dataset          | Size | Format | MD5 | Description |
 | ---------------- | ---- | ------ | --- | ----------- |
-| [BOTS V2 Dataset](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set.tgz) | 16.4GB | Pre-indexed Splunk | 8fc312504c0e2e76342fcf82ea962f56 | Full BOTSv2 data set. |
+| [BOTS V2 Dataset](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set.tgz) | 16.4GB | Pre-indexed Splunk | 8fc312504c0e2e76342fcf82ea962f56 | Full BOTSv2 dataset. |
 | [BOTS V2 Dataset (Attack Only)](https://s3.amazonaws.com/botsdataset/botsv2/botsv2_data_set_attack_only.tgz) | 3.2GB | Pre-indexed Splunk | bafffb28c561862e55d37c806060c26d | BOTSv2 "attack-only" dataset. This dataset contains minimal non-attack-related (aka "clean") data. It's everything you need and nothing you don't!
 
-Note: Choose *either* the full dataset *or* the attack-only dataset.  You cannot install them both simultaneously. The BOTS V2 Data Set is a superset of the BOTS V2 Attack Only Dataset.
+Note: Choose *either* the full dataset *or* the attack-only dataset.  You cannot install them both simultaneously. The BOTS V2 Dataset is a superset of the BOTS V2 Attack Only Dataset.
 
 ## Installation
 1. Download the dataset file indicated above and check the MD5 hash to ensure integrity.
