@@ -12,7 +12,7 @@ Note: Choose *either* the full dataset *or* the attack-only dataset.  You cannot
 
 ## Installation
 1. Download the dataset file indicated above and check the MD5 hash to ensure integrity.
-2. Install Splunk Enterprise and the apps/add-ons listed in the *Required Software* section below.
+2. Install Splunk Enterprise and the apps/add-ons listed in the *Required Software* section below. It is important to match the specific version of each app and add-on.
 3. Unzip/untar the downloaded file into $SPLUNK_HOME/etc/apps
 4. Restart Splunk
 5. The BOTS v2 data will be available by searching: 
